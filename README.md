@@ -5,8 +5,8 @@ The best jQuery plugin ever.
 ## Getting Started
 Download the [production version][min] or the [development version][max].
 
-[min]: https://raw.github.com/thilina/gruntTest2/master/dist/gruntTest2.min.js
-[max]: https://raw.github.com/thilina/gruntTest2/master/dist/gruntTest2.js
+[min]: https://raw.githubusercontent.com/mthilinas/gruntTest2/master/dist/jquery.gruntTest2.min.js
+[max]: https://raw.githubusercontent.com/mthilinas/gruntTest2/master/dist/jquery.gruntTest2.js
 
 In your web page:
 
